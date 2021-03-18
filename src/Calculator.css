@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.main{
+    width:500px; 
+    height:900px; 
+    margin:0 auto;
+    border:3px solid black; 
+    border-radius: 30px;
+    background-color: black;
+}
+.top{
+    color:white;
+    font-weight: 600;
+    width:500px;
+    height:30px;
+}
+.top_left{
+   float:left;
+   line-height: 30px;
+}
+.top_right{
+    text-align:right;
+    line-height: 30px;
+}
+.display{
+    width:500px;
+    height:300px;
+    overflow: hidden;
+}
+.input{
+    color:white;
+    text-align: right;
+    font-size: 100px;
+    line-height:100px;
+    margin:0 auto;
+    width:450px;
+    height:100px;
+}
+.buttonSet{
+    width:500px;
+    height:570px;
+}
